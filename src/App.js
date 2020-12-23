@@ -19,11 +19,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-<<<<<<< HEAD
-          Learn React haha
-=======
-          Learn React Gavin
->>>>>>> 785da8b4d17397c0e71a22d10a46dbfa1c8223c4
+          Learn React Gavin!!!
         </a>
       </header>
     </div>
